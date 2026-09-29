@@ -1,0 +1,20 @@
+# Orquestación y agentes
+langchain>=1.0
+langchain-core>=1.0
+langgraph>=1.0
+langchain-google-genai>=4.0
+pydantic>=2.7
+
+# RAG híbrido (BM25 + Pinecone) de las pre-entregas anteriores
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-pinecone
+langchain-huggingface
+sentence-transformers
+pinecone
+rank_bm25
+
+# Utilidades
+python-dotenv
+pytest
